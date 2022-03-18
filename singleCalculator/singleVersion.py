@@ -24,7 +24,7 @@ def addition(a,b):
     return a+b
     
 def subtraction(a,b):
-    sum = a-b
+    sum = a - b
     return sum
     
 def multiplication(a,b):
@@ -32,5 +32,5 @@ def multiplication(a,b):
     return sum
     
 def division(a,b):
-    sum = a/b
-    return sum
+    sum = a / b
+    return = sum
