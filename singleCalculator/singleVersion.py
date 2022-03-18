@@ -33,5 +33,5 @@ def multiplication(a,b):
     return sum
     
 def division(a,b):
-    sum = a/b
+    sum = a / b
     return = sum
